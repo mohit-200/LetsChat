@@ -30,3 +30,5 @@ Step 8: Client sends message in client.js
 Step 9: Recieved message on server and broadcast to all clients.
 
 Step 10: Received messages on client and display the same. 
+
+Note: When we started the nodejs server then node_modules named folder will be created instantaneoulsy.
